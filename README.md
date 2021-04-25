@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 i created API Kab. Cilacap, its's all free
 
-<!--
-**egaprsty/egaprsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=CovidCilacap&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://egaprsty.vercel.app/api/covidCilacap)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm Remote Worker, Dev, and Lazy Human! 
+
+- 🔭 I’m Lazy Engineer
+- 🌱 I’m currently everything lol
+- 😄 Goals: Contributed to all Open Source Projects
+- ⚡ Fun fact: I'm fvcking hate for the draw
+
