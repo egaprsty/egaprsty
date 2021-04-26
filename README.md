@@ -11,7 +11,6 @@
 - 😄 Contributed to all Open Source Projects
 - ⚡ I'm fvcking hate for the draw
 
-<br />
 
 ### Languages and Tools:
 
